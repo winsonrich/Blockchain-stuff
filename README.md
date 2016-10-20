@@ -9,14 +9,15 @@ Curated list of blockchain and general cryptocurrency resources
 - [Blockchain White Papers](#blockchain-white-papers)
 - [Bitcoin Books](#bitcoin)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
-* [Videos](#videos)
-* [Youtube channels](#youtube-channels)
+- [Videos](#videos)
+- [Youtube Channels](#youtube-channels)
+- [Companies](#companies)
 
 
 ###Blockchain Books
 
-* [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology ](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9)-  William Mougayar
-* [The FinTech Book: The Financial Technology Handbook for Investors, Entrepreneurs and Visionaries ](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9)- Susanne Chishti and Janos Barberis
+* [The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9)-  William Mougayar
+* [The FinTech Book: The Financial Technology Handbook for Investors, Entrepreneurs and Visionaries](https://www.amazon.com/FINTECH-Book-Technology-Entrepreneurs-Visionaries/dp/111921887X/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=111921887X&pd_rd_r=Z5ZRQN8RG5TEQTMKYHA9&pd_rd_w=qIgXN&pd_rd_wg=wZM9d&psc=1&refRID=Z5ZRQN8RG5TEQTMKYHA9)- Susanne Chishti and Janos Barberis
 * [Blockchain Revolution: How the Technology behind Bitcoin Is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_sim_14_11?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) -  Don and AlexTapscott
 * [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ)-Chris Skinner
 * [The Fourth Industrial Revolution](https://www.amazon.com/Fourth-Industrial-Revolution-Klaus-Schwab/dp/1944835008/ref=sr_1_1?s=books&ie=UTF8&qid=1476984488&sr=1-1&keywords=The+Fourth+Industrial+Revolution) - Prof Klaus Schwab
@@ -140,3 +141,15 @@ Curated list of blockchain and general cryptocurrency resources
 * [WBN ](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
 * [World Crypto Network](Industry Info, Fun, Entertainment)
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
+
+###Companies
+ ####Art
+ * [Artlery](https://artlery.com)
+ * [Ascribe](https://www.ascribe.io)
+ * [Blockai](https://blockai.com)
+ * [Everledger](http://www.everledger.io)
+ * [MediaChain Labs](http://www.mediachainlabs.com)
+ * [Tagsmart](http://www.tagsmart.com)
+ * [Monegraph](https://monegraph.com)
+ * [Verisart](https://www.verisart.com)
+ * [Bitmark](https://bitmark.com)
