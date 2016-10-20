@@ -33,28 +33,28 @@ Curated list of blockchain and general cryptocurrency resources
 * [Blockchain: The Simple Guide To Everything You Need To Know](https://www.amazon.com/Blockchain-Simple-Guide-Everything-Need/dp/1533161577/ref=pd_sim_14_23?_encoding=UTF8&pd_rd_i=1533161577&pd_rd_r=26RQGPJBS5V65WXKFS9Z&pd_rd_w=DJMVN&pd_rd_wg=E1guu&psc=1&refRID=26RQGPJBS5V65WXKFS9Z) - Jacob William
 * [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP) - R.J Simmons
 * [Blockchain: The Future of Internet Innovation - Ideas, Applications and Uses for Blockchain Technology](https://www.amazon.com/Blockchain-Innovation-Applications-Cryptocurrencies-Technological-ebook/dp/B01G80V3O2/ref=sr_1_2?ie=UTF8&qid=1476985977&sr=8-2&keywords=Blockchain+contracts+and+CyberLaw) - Jerry Kershen 
-* [Financial Technology: This Book Bundle Includes FinTech and Blockchain ](https://www.amazon.com/Financial-Technology-Bundle-FinTech-Blockchain/dp/1533477299/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1533477299&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830)-  Jacob William 
+* [Financial Technology: This Book Bundle Includes FinTech and Blockchain](https://www.amazon.com/Financial-Technology-Bundle-FinTech-Blockchain/dp/1533477299/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1533477299&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830)-  Jacob William 
 * [Blockchain: Quick Start Guide to Understanding Blockchain, the Biggest Revolution in Financial Technology and Beyond Since the Internet](https://www.amazon.com/Blockchain-Understanding-Revolution-Financial-Technology/dp/153469093X/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=153469093X&pd_rd_r=D7A8BRAQA9GNYQYES830&pd_rd_w=76sME&pd_rd_wg=SCgV1&psc=1&refRID=D7A8BRAQA9GNYQYES830) - Seth Ramsey
 * [Blockchain: The Essential Guide to Understanding the Blockchain Revolution](https://www.amazon.com/Blockchain-Essential-Guide-Understanding-Revolution/dp/1537317504/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=1537317504&pd_rd_r=N3211HRZ6T4ETTER3MY3&pd_rd_w=I44Hf&pd_rd_wg=evC6k&psc=1&refRID=N3211HRZ6T4ETTER3MY3) - Jeff Reed
 * [Blockchain: Easiest Ultimate Guide To Understand Blockchain](https://www.amazon.com/Blockchain-Understand-Programming-Contracts-Revolution/dp/1537533371/ref=pd_sim_14_3?_encoding=UTF8&pd_rd_i=1537533371&pd_rd_r=904DCPSY2QZX2VM23XQD&pd_rd_w=3oCFL&pd_rd_wg=jJFBs&psc=1&refRID=904DCPSY2QZX2VM23XQD) - Jared Norton 
 
 
 ###Blockchain White papers
-* [Banking in a world of programmable assets - Accenture](https://www.accenture.com/t20160509T223022__w__/us-en/_acnmedia/PDF-16/Accenture-Strategy-Banking-World-of-Programmable-Assets.pdf)
-* [Blockchain: practical implications of a revolutionary technology for financial markets and beyond - DLA Piper](https://www.dlapiper.com/en/uk/insights/events/2016/04/blockchain-practical-implications/11-apr-2016/) 
-* [A brave new world? What impact will distributed ledger technology have on the financial industry? -  The European Central Bank](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf)
-* [Distributed Ledger Technology: beyond block chain - UK Government Chief Scientific Adviser ](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf)
-* [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle by The Swift Institute ](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf)
-* [BlockChain Technology Beyond Bitcoin - University of California,Berkeley](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
-* [Consensus – Immutable agreement for the internet of value - KPMG](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf)
+* [Banking in a world of programmable assets](https://www.accenture.com/t20160509T223022__w__/us-en/_acnmedia/PDF-16/Accenture-Strategy-Banking-World-of-Programmable-Assets.pdf) - Accenture
+* [Blockchain: practical implications of a revolutionary technology for financial markets and beyond](https://www.dlapiper.com/en/uk/insights/events/2016/04/blockchain-practical-implications/11-apr-2016/)  - DLA Piper
+* [A brave new world? What impact will distributed ledger technology have on the financial industry?](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf) -  The European Central Bank
+* [Distributed Ledger Technology: beyond block chain](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492972/gs-16-1-distributed-ledger-technology.pdf) - UK Government Chief Scientific Adviser 
+* [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf) - The Swift Institute 
+* [BlockChain Technology Beyond Bitcoin](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf) - University of California,Berkeley
+* [Consensus – Immutable agreement for the internet of value](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf) - KPMG
 
 
 ###Bitcoin 
-* [Mastering Bitcoin: Unlocking Digital Cryptocurrencies ](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/ref=sr_1_1?ie=UTF8&qid=1476978890&sr=8-1&keywords=Mastering+Bitcoin%3A+Unlocking+Digital+Cryptocurrencies) Andreas M.  Antonopoulos
+* [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/ref=sr_1_1?ie=UTF8&qid=1476978890&sr=8-1&keywords=Mastering+Bitcoin%3A+Unlocking+Digital+Cryptocurrencies) Andreas M.  Antonopoulos
 * [Digital Gold: The Untold Story of Bitcoin](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/0062362496/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0062362496&pd_rd_r=D7KMJCP493PPH9ADVPCR&pd_rd_w=g5Hrb&pd_rd_wg=KsfK5&psc=1&refRID=D7KMJCP493PPH9ADVPCR) -  Nathaniel Popper
-* [The Age of Cryptocurrency: How Bitcoin and Digital Money are challenging the Global Economic Order ](https://www.amazon.com/Age-Cryptocurrency-Bitcoin-Challenging-Economic/dp/1250065631/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=1250065631&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM)- Paul Vigna and Michael J. Casey
+* [The Age of Cryptocurrency: How Bitcoin and Digital Money are challenging the Global Economic Order](https://www.amazon.com/Age-Cryptocurrency-Bitcoin-Challenging-Economic/dp/1250065631/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=1250065631&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM)- Paul Vigna and Michael J. Casey
 * [Bitcoin The Future of Money](https://www.amazon.com/Bitcoin-future-money-Dominic-Frisby/dp/1783521023/ref=pd_sim_14_19?_encoding=UTF8&pd_rd_i=1783521023&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Dominic Frisby
-* [Wildcat Currency ](Wildcat Currency: How the Virtual Money Revolution Is Transforming the Economy)- Edward Castronova
+* [Wildcat Currency](Wildcat Currency: How the Virtual Money Revolution Is Transforming the Economy)- Edward Castronova
 * [The Bitcoin Bible](https://www.amazon.com/Bitcoin-Bible-Gold-Benjamin-Guttmann/dp/3732296962/ref=pd_sim_14_18?_encoding=UTF8&pd_rd_i=3732296962&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Benjamin Guttmann
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin](https://www.amazon.com/Virtual-Billions-Genius-League-Bitcoin/dp/163388144X/ref=sr_1_1?ie=UTF8&qid=1476986258&sr=8-1&keywords=Virtual+Billions%3A+The+Genius) - Eric Geissinger
 * [The Book of Satoshi](https://www.amazon.com/Book-Satoshi-Collected-Writings-Nakamoto/dp/0996061312/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=0996061312&pd_rd_r=9QB4ZB20S6CY4NGE029X&pd_rd_w=2TjP2&pd_rd_wg=VjLqC&psc=1&refRID=9QB4ZB20S6CY4NGE029X) - Paul Champagne
@@ -84,12 +84,12 @@ Curated list of blockchain and general cryptocurrency resources
 ###Ethereum and Smart Contracts
 
 * [Investing in Ethereum: The Ultimate Guide to Learning and Profiting from--Cryptocurrencies](https://www.amazon.com/Investing-Ethereum-Learning-Profiting-Cryptocurrencies/dp/153530281X/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=153530281X&pd_rd_r=EH8VPZEJ5BMM540BQEZW&pd_rd_w=CywQ3&pd_rd_wg=p4U9s&psc=1&refRID=EH8VPZEJ5BMM540BQEZW) - Oscar Flynt
-* [Ethereum: A look into the world of Ethereum and everything you need to know about it's trade and investment!](https://www.amazon.com/Ethereum-everything-investment-Blockchain-Cryptocurrency-ebook/dp/B01IC6NT8S/ref=sr_1_1?ie=UTF8&qid=1476984793&sr=8-1&keywords=Ethereum%3A+A+look+into+the+world+of+Ethereum+and+everything+you+need+to+know+about+it%27s+trade+and+investment%21) - Ben Abner
-* [Smart Contracts: How to Use Blockchain Smart Contracts for Cryptocurrency Exchange ](https://www.amazon.com/Smart-Contracts-Blockchain-Cryptocurrency-Exchange-ebook/dp/B01IQJM53Q/ref=sr_1_1?ie=UTF8&qid=1476984876&sr=8-1&keywords=Smart+Contracts%3A+How+to+Use+Blockchain)- Oscar Flynt
+* [Ethereum: A look into the world of Ethereum and everything you need to know about it's trade and investment](https://www.amazon.com/Ethereum-everything-investment-Blockchain-Cryptocurrency-ebook/dp/B01IC6NT8S/ref=sr_1_1?ie=UTF8&qid=1476984793&sr=8-1&keywords=Ethereum%3A+A+look+into+the+world+of+Ethereum+and+everything+you+need+to+know+about+it%27s+trade+and+investment%21) - Ben Abner
+* [Smart Contracts: How to Use Blockchain Smart Contracts for Cryptocurrency Exchange](https://www.amazon.com/Smart-Contracts-Blockchain-Cryptocurrency-Exchange-ebook/dp/B01IQJM53Q/ref=sr_1_1?ie=UTF8&qid=1476984876&sr=8-1&keywords=Smart+Contracts%3A+How+to+Use+Blockchain)- Oscar Flynt
 * [Investing in Ethereum: Understanding Cryptocurrencies for the Smart Investor](https://www.amazon.com/Investing-Ethereum-Understanding-Cryptocurrencies-Investor-ebook/dp/B01DD6XVJE/ref=sr_1_1?ie=UTF8&qid=1476985905&sr=8-1&keywords=investing+in+Ethereum%3A+Understanding) - Michael K Nungesser
 * [Investing In Ethereum: The Complete Guide To Smart Investing - Learn How To Easily Profit From Cryptocurrencies!](https://www.amazon.com/Investing-Ethereum-Complete-Easily-Cryptocurrencies/dp/1537677209/ref=sr_1_fkmr0_1?ie=UTF8&qid=1476985775&sr=8-1-fkmr0&keywords=Ethereum%3A+The+Complete+Beginners+Guide)- 	Thomas Sanders
-* [Great Chain of Numbers: A Guide to Smart Contracts, Smart Property and Trustless Asset Management ](https://www.amazon.com/Great-Chain-Numbers-Contracts-Management-ebook/dp/B00IRUBMXO/ref=sr_1_1?ie=UTF8&qid=1476985949&sr=8-1&keywords=Great+Chain+of+Numbers%3A+A+Guide+to+Smart+Contracts%2C+Smart+Property+and+Trustless+Asset+Management)- Tim Swanson 
-* [Blockchain contracts and CyberLaw ](https://www.amazon.com/BLOCKCHAIN-CONTRACTS-CYBERLAW-PAVAN-DUGGAL-ebook/dp/B019S2I1CE/ref=sr_1_1?ie=UTF8&qid=1476985977&sr=8-1&keywords=Blockchain+contracts+and+CyberLaw)- Pavan Duggal
+* [Great Chain of Numbers: A Guide to Smart Contracts, Smart Property and Trustless Asset Management](https://www.amazon.com/Great-Chain-Numbers-Contracts-Management-ebook/dp/B00IRUBMXO/ref=sr_1_1?ie=UTF8&qid=1476985949&sr=8-1&keywords=Great+Chain+of+Numbers%3A+A+Guide+to+Smart+Contracts%2C+Smart+Property+and+Trustless+Asset+Management)- Tim Swanson 
+* [Blockchain contracts and CyberLaw](https://www.amazon.com/BLOCKCHAIN-CONTRACTS-CYBERLAW-PAVAN-DUGGAL-ebook/dp/B019S2I1CE/ref=sr_1_1?ie=UTF8&qid=1476985977&sr=8-1&keywords=Blockchain+contracts+and+CyberLaw)- Pavan Duggal
 * [Ethereum: The Complete Beginners Guide -Blockchain, Cryptocurrencies, Ethereum](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Ethereum%3A+The+Complete+Beginners+Guide)  - Ray Hammond
 * [Smart Contracts: The Essential Guide to Using Blockchain Smart Contracts for Cryptocurrency Exchange](https://www.amazon.com/Smart-Contracts-Essential-Blockchain-Cryptocurrency-ebook/dp/B01LXGO7GH/ref=sr_1_1?ie=UTF8&qid=1476985747&sr=8-1&keywords=Smart+Contracts%3A+The+Essential+Guide) - Jeff Reed 
 * [Smart Contracts: The Ultimate Guide To Blockchain Smart Contracts - Learn How To Use Smart Contracts For Cryptocurrency Exchange!](https://www.amazon.com/Smart-Contracts-Ultimate-Blockchain-Cryptocurrency-ebook/dp/B01LYK175F/ref=sr_1_2?ie=UTF8&qid=1476984876&sr=8-2&keywords=Smart+Contracts%3A+How+to+Use+Blockchain) - Terry Parker
@@ -119,31 +119,32 @@ Curated list of blockchain and general cryptocurrency resources
 
 ###Youtube Channels
 * [Andreas Antonopolous](https://www.youtube.com/user/aantonop)
-* [Andy Ofiesh ](https://www.youtube.com/user/JellyBaby68/videos)
-* [Bitcoin Embassy ](https://www.youtube.com/user/JellyBaby68/videos)
-* [Bitcoin Foundation ](https://www.youtube.com/user/BitcoinFoundation/videos)
-* [Bitcoin Wednesday ](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos)
-* [Blockchain University ](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
-* [Bruce Fenton First Mover, ](https://www.youtube.com/user/BruceFenton/videos)
-* [Coin Brief ](https://www.youtube.com/user/Coinbrief/videos)
+* [Andy Ofiesh](https://www.youtube.com/user/JellyBaby68/videos)
+* [Bitcoin Embassy](https://www.youtube.com/user/JellyBaby68/videos)
+* [Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
+* [Bitcoin Wednesday](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos)
+* [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
+* [Bruce Fenton First Mover,](https://www.youtube.com/user/BruceFenton/videos)
+* [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
 * [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
-* [decentral.tv ](https://www.youtube.com/user/decentralTV/videos)
-* [Draper University ](https://www.youtube.com/user/TimothyDraper/videos)
+* [decentral.tv](https://www.youtube.com/user/decentralTV/videos)
+* [Draper University](https://www.youtube.com/user/TimothyDraper/videos)
 * [EtherCasts](https://www.youtube.com/user/EtherCasts)
 * [Ethereum Project](https://www.youtube.com/user/ethereumproject)
 * [EverydayCrpto](https://www.youtube.com/user/Cryptoeveryday/videos)
-* [Let's Talk Bitcoin ](https://www.youtube.com/user/LetsTalkBitcoinChan)
-* [MIT Bitcoin Club ](https://www.youtube.com/user/MITBitcoinClub/videos)
+* [Let's Talk Bitcoin](https://www.youtube.com/user/LetsTalkBitcoinChan)
+* [MIT Bitcoin Club](https://www.youtube.com/user/MITBitcoinClub/videos)
 * [Satoshi Pollen Technical](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
 * [SF Bitcoin Meetup Industry](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos)
 * [Texas Bitcoin Conference](Industy Info, Technical)
-* [UNIVERSITY OF NICOSIA MSc in Digital ](https://www.youtube.com/user/MScDigitalCurrency/videos)
-* [WBN ](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
+* [UNIVERSITY OF NICOSIA MSc in Digital](https://www.youtube.com/user/MScDigitalCurrency/videos)
+* [WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
 * [World Crypto Network](Industry Info, Fun, Entertainment)
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
 
 ###Companies
- ####Art
+
+###Art 
  * [Artlery](https://artlery.com)
  * [Ascribe](https://www.ascribe.io)
  * [Blockai](https://blockai.com)
