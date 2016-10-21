@@ -2,9 +2,8 @@
 
 Curated list of blockchain and general cryptocurrency resources
 
-# Contents
+# Table of Contents
 
-##Blockchain
 - [Blockchain Books](#blockchain-books)
 - [White Papers](#white-papers)
 - [Bitcoin Books](#bitcoin)
@@ -144,10 +143,10 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitcoin Foundation](https://www.youtube.com/user/BitcoinFoundation/videos)
 * [Bitcoin Wednesday](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos)
 * [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
-* [Bruce Fenton First Mover,](https://www.youtube.com/user/BruceFenton/videos)
+* [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
 * [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
-* [decentral.tv](https://www.youtube.com/user/decentralTV/videos)
+* [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
 * [Draper University](https://www.youtube.com/user/TimothyDraper/videos)
 * [EtherCasts](https://www.youtube.com/user/EtherCasts)
 * [Ethereum Project](https://www.youtube.com/user/ethereumproject)
@@ -157,7 +156,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Satoshi Pollen Technical](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
 * [SF Bitcoin Meetup Industry](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos)
 * [Texas Bitcoin Conference](Industy Info, Technical)
-* [UNIVERSITY OF NICOSIA MSc in Digital](https://www.youtube.com/user/MScDigitalCurrency/videos)
+* [University Of Nicosia](https://www.youtube.com/user/MScDigitalCurrency/videos)
 * [WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
 * [World Crypto Network](Industry Info, Fun, Entertainment)
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
