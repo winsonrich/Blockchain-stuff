@@ -11,6 +11,7 @@ Curated list of blockchain and general cryptocurrency resources
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
 - [Videos](#videos)
 - [Youtube Channels](#youtube-channels)
+- [Courses](#courses)
 - [Companies](#companies)
 
 
@@ -141,6 +142,13 @@ Curated list of blockchain and general cryptocurrency resources
 * [WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
 * [World Crypto Network](Industry Info, Fun, Entertainment)
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
+
+###Courses
+* [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
+* [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
+* [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy( Charles Hoskinson, Brian Göss)
+* [Crypto Currencies, the Blockchain, and Smart Contracts](https://crypto.stanford.edu/cs251/) - Standford
+*
 
 ###Companies
 
