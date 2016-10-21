@@ -14,7 +14,8 @@ Curated list of blockchain and general cryptocurrency resources
 - [Youtube Channels](#youtube-channels)
 - [Courses](#courses)
 - [Documentaries](#documentaries)
-- [Blockchain Art](#art)
+- [Blockchain Art](#blockchain-art)
+- [Explorers](#explorers)
 
 
 ###Blockchain Books
@@ -50,9 +51,13 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf) - The Swift Institute 
 * [BlockChain Technology Beyond Bitcoin](http://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf) - University of California,Berkeley
 * [Consensus – Immutable agreement for the internet of value](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/06/kpmg-blockchain-consensus-mechanism.pdf) - KPMG
-* [Economics of Bitcoin] (http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf) - Peter Surda 
+* [Economics of Bitcoin](http://nakamotoinstitute.org/static/docs/economics-of-bitcoin.pdf) - Peter Surda 
 * [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](http://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf) - University of San Diego California
-* [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit#) -
+* [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit#) - Chris Ellis
+* [An Architecture for the Internet of Money](https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub) - Meher Roy
+* [Bitcoin Primer](http://www.macroriskadvisors.com/layout/pdf/bitcoin%20primer%20BTC.pdf) - Macro Risk Advisors
+* [Bitcoin as Money?](http://www.bostonfed.org/economic/current-policy-perspectives/2014/cpp1404.pdf) - Stephanie Lo and J. Christina Wang
+* [Bitcoin](http://research.microsoft.com/pubs/156072/bitcoin.pdf) - Microsoft Research
 
 ###Bitcoin 
 * [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/ref=sr_1_1?ie=UTF8&qid=1476978890&sr=8-1&keywords=Mastering+Bitcoin%3A+Unlocking+Digital+Cryptocurrencies) Andreas M.  Antonopoulos
@@ -108,8 +113,15 @@ Curated list of blockchain and general cryptocurrency resources
 - [Bitcoin's History2008-2014](https://i.imgur.com/kVF3kFu.png)
 
 ###Talks
+* [The Future of Bitcoin: New Applications and Rebuilding the banking system: (28min)](https://www.youtube.com/watch?v=mD4L7xDNCmA) - Mike Hearn
 * [Powerful Technology Transforming Society: (6min)](http://www.youtube.com/watch?v=YIVAluSL9SUA)
 * [Stopping War: (1 min)](https://www.youtube.com/watch?v=eyU3TgQqtV8)
+* [Bitcoin. Sweat. Tide. Meet the future of branded currency.(11min)](https://www.ted.com/talks/paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency?language=en) - Paul Kemp-Robertson
+* [Bitcoin Is Exciting Because It's Cheap](https://www.youtube.com/watch?t=26&v=DyAufA2lWn0) - Bill Gates
+* [The future will be decentralized (14mins)](https://www.youtube.com/watch?v=97ufCT6lQcY) - Charles Hoskinson
+* [Testimony for the Australian Senate Commitee on Economics References(36min)](https://www.youtube.com/watch?v=XotOwt8bTeI&feature=youtu.be)
+* [How Cryptocurrencies Can Succeed: the Stripe Perspective(20min)](https://www.youtube.com/watch?v=6qZwl7mukZ8) - Greg Brockman
+* [Everything You Need to Know About Bitcoin](https://www.youtube.com/watch?v=SNssKmeXrGs) - Reihan Salams
 * [Quick Introduction to Bitcoin (5min)](https://www.youtube.com/watch?v=slFuj5N4twc)
 * [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
 * [The Story of Genesis: (3min)](http://youtu.be/gD4llSr-Ik8)
@@ -119,7 +131,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Convergex Group, Nick Colas (3min):](https://www.youtube.com/watch?v=CdVVECKKSXo)
 * [Bitcoin threatens Kleptocracy (7 min):](http://youtu.be/jaHqtXvGxy4)
 * [Defining bitcoin ownership, 2 min](https://www.youtube.com/watch?v=TANjGSo16Uk)
-* [TEDx, Distributing Power & Trust, Eric Spano (18min)](https://www.youtube.com/watch?v=WI1pbHi1fww)
+* [TEDx, Distributing Power & Trust (18min)](https://www.youtube.com/watch?v=WI1pbHi1fww) -  Eric Spano
 * [Stefan Molyneux- Money, Power and Politics (30min):](https://www.youtube.com/watch?v=_bmlVqs9qSY)
 * [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)](https://www.youtube.com/watch?v=cOubCHLXT6A)
 * [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30)
@@ -176,3 +188,14 @@ Curated list of blockchain and general cryptocurrency resources
  * [Monegraph](https://monegraph.com)
  * [Verisart](https://www.verisart.com)
  * [Bitmark](https://bitmark.com)
+
+###Explorers
+* [Block Explorer](http://chainflyer.bitflyer.jp)
+* [Ether.Camp](http://frontier.ether.camp/)
+* [Etherscan](https://etherscan.io/)
+* [EtherChain](https://etherchain.org/)
+* [Blockchain Size:](https://blockchain.info/charts/blocks-size)
+* [Ethereum Network Stats](https://stats.ethdev.com/)
+* [Tradeblock](https://tradeblock.com/markets)
+* [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
+* [Size of the Network](https://getaddr.bitnodes.io/)
