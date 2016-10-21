@@ -9,10 +9,11 @@ Curated list of blockchain and general cryptocurrency resources
 - [Blockchain White Papers](#blockchain-white-papers)
 - [Bitcoin Books](#bitcoin)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
-- [Videos](#videos)
+- [Talks](#talks)
 - [Youtube Channels](#youtube-channels)
 - [Courses](#courses)
 - [Companies](#companies)
+- [Documentaries](#documentaries)
 
 
 ###Blockchain Books
@@ -55,7 +56,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Digital Gold: The Untold Story of Bitcoin](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/0062362496/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0062362496&pd_rd_r=D7KMJCP493PPH9ADVPCR&pd_rd_w=g5Hrb&pd_rd_wg=KsfK5&psc=1&refRID=D7KMJCP493PPH9ADVPCR) -  Nathaniel Popper
 * [The Age of Cryptocurrency: How Bitcoin and Digital Money are challenging the Global Economic Order](https://www.amazon.com/Age-Cryptocurrency-Bitcoin-Challenging-Economic/dp/1250065631/ref=pd_sim_14_6?_encoding=UTF8&pd_rd_i=1250065631&pd_rd_r=7XN6AJY2PX75QDZTZAPM&pd_rd_w=ZDHwi&pd_rd_wg=oQ9Te&psc=1&refRID=7XN6AJY2PX75QDZTZAPM) - Paul Vigna and Michael J. Casey
 * [Bitcoin The Future of Money](https://www.amazon.com/Bitcoin-future-money-Dominic-Frisby/dp/1783521023/ref=pd_sim_14_19?_encoding=UTF8&pd_rd_i=1783521023&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Dominic Frisby
-* [Wildcat Currency](Wildcat Currency: How the Virtual Money Revolution Is Transforming the Economy) - Edward Castronova
+* [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/ref=sr_1_1?ie=UTF8&qid=1476986207&sr=8-1&keywords=Wildcat+Currency) - Edward Castronova
 * [The Bitcoin Bible](https://www.amazon.com/Bitcoin-Bible-Gold-Benjamin-Guttmann/dp/3732296962/ref=pd_sim_14_18?_encoding=UTF8&pd_rd_i=3732296962&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Benjamin Guttmann
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin](https://www.amazon.com/Virtual-Billions-Genius-League-Bitcoin/dp/163388144X/ref=sr_1_1?ie=UTF8&qid=1476986258&sr=8-1&keywords=Virtual+Billions%3A+The+Genius) - Eric Geissinger
 * [The Book of Satoshi](https://www.amazon.com/Book-Satoshi-Collected-Writings-Nakamoto/dp/0996061312/ref=pd_sim_14_8?_encoding=UTF8&pd_rd_i=0996061312&pd_rd_r=9QB4ZB20S6CY4NGE029X&pd_rd_w=2TjP2&pd_rd_wg=VjLqC&psc=1&refRID=9QB4ZB20S6CY4NGE029X) - Paul Champagne
@@ -98,8 +99,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Modern Ethereum](https://www.amazon.com/Modern-Ethereum-Ryan-Venter-ebook/dp/B01KIRQZ0S/ref=sr_1_1?ie=UTF8&qid=1476985723&sr=8-1&keywords=The+Modern+Ethereum) - Ryan Venter
 
 
-###Videos
-* [Rise of bitcoin (2min)](https://vimeo.com/110874487)
+###Talks
 * [Powerful Technology Transforming Society: (6min)](http://www.youtube.com/watch?v=YIVAluSL9SUA)
 * [Stopping War: (1 min)](https://www.youtube.com/watch?v=eyU3TgQqtV8)
 * [Quick Introduction to Bitcoin (5min)](https://www.youtube.com/watch?v=slFuj5N4twc)
@@ -113,9 +113,9 @@ Curated list of blockchain and general cryptocurrency resources
 * [Defining bitcoin ownership, 2 min](https://www.youtube.com/watch?v=TANjGSo16Uk)
 * [TEDx, Distributing Power & Trust, Eric Spano (18min)](https://www.youtube.com/watch?v=WI1pbHi1fww)
 * [Stefan Molyneux- Money, Power and Politics (30min):](https://www.youtube.com/watch?v=_bmlVqs9qSY)
-* [Morgan Spurlock Inside Bitcoin (40 min)]( http://m.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
-* [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)] (https://www.youtube.com/watch?v=cOubCHLXT6A)
-* [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)] (https://www.youtube.com/watch?v=7-vYEsfsa30)
+* [Morgan Spurlock Inside Bitcoin (40 min)](http://m.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
+* [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)](https://www.youtube.com/watch?v=cOubCHLXT6A)
+* [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30)
 * [Beyond Bitcoin - Block Chains and the Future of Trustless Computing (27 min)](https://www.youtube.com/watch?v=IgETC2JMUBI)
 
 ###Youtube Channels
@@ -149,6 +149,15 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy( Charles Hoskinson, Brian Göss)
 * [Crypto Currencies, the Blockchain, and Smart Contracts](https://crypto.stanford.edu/cs251/) - Standford
 *
+
+###Documentaries
+* [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
+* [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
+* [The Bitcoin Doco](https://vimeo.com/112223859)
+* [Inside Man with Morgan Spurlock ](http://www.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
+* [Life Inside of a Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I)
+
+
 
 ###Companies
 
