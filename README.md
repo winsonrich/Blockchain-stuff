@@ -205,6 +205,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Tradeblock](https://tradeblock.com/markets)
 * [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
 * [Size of the Network](https://getaddr.bitnodes.io/)
+* [Coin Prism](https://www.coinprism.info/)
 * [Smartbit](https://www.smartbit.com.au/)
 * [Block Explorer](https://blockexplorer.com/)
 * [Blockr](http://blockr.io/)
