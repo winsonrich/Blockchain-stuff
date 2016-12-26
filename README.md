@@ -196,6 +196,7 @@ Curated list of blockchain and general cryptocurrency resources
  * [Bitmark](https://bitmark.com)
 
 ###Explorers
+* [Btc Chain](https://btc.com/)
 * [Chain Flyer](http://chainflyer.bitflyer.jp)
 * [Ether.Camp](http://frontier.ether.camp/)
 * [Etherscan](https://etherscan.io/)
