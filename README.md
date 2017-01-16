@@ -209,3 +209,4 @@ Curated list of blockchain and general cryptocurrency resources
 * [Blockr](http://blockr.io/)
 * [Blockonomics](https://www.blockonomics.co/)
 * [Bitaps](https://bitaps.com/)
+* [Bitinfocharts](https://bitinfocharts.com/bitcoin/explorer/)
