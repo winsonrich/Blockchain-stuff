@@ -109,6 +109,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [FinTech: Financial Technology and Modern Finance in the 21st Century](https://www.amazon.com/FinTech-Financial-Technology-Blockchain-Contracts-ebook/dp/B01MEFL03W/ref=sr_1_1?ie=UTF8&qid=1476985691&sr=8-1&keywords=FinTech%3A+Financial+Technology+and+Modern+Finance+in+the+21st+Century) - Jeff Reed
 * [The Modern Ethereum](https://www.amazon.com/Modern-Ethereum-Ryan-Venter-ebook/dp/B01KIRQZ0S/ref=sr_1_1?ie=UTF8&qid=1476985723&sr=8-1&keywords=The+Modern+Ethereum) - Ryan Venter
 * [Practical Guide to Smart Contracts](https://www.gitbook.com/book/smart-contract-japan/prictical-guide-of-smart-contracts/details) - Smart Contract Japan
+* [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
 
 ###Infographics
 - [How a Transaction Works](https://i.imgur.com/fZyX3Od.jpg)
