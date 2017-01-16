@@ -206,3 +206,4 @@ Curated list of blockchain and general cryptocurrency resources
 * [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
 * [Size of the Network](https://getaddr.bitnodes.io/)
 * [Block Explorer](https://blockexplorer.com/)
+* [Blockr](http://blockr.io/)
