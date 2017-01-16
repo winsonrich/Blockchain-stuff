@@ -172,6 +172,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy
 * [Crypto Currencies, the Blockchain, and Smart Contracts](https://crypto.stanford.edu/cs251/) - Standford
 * [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
+* [Ethereum Developer: Build A Decentralised Blockchain App](https://www.udemy.com/ethereum-developer/) - Udemy
 
 ###Documentaries
 * [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
