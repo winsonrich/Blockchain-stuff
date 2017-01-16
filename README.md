@@ -173,6 +173,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Crypto Currencies, the Blockchain, and Smart Contracts](https://crypto.stanford.edu/cs251/) - Standford
 * [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
 * [Ethereum Developer: Build A Decentralised Blockchain App](https://www.udemy.com/ethereum-developer/) - Udemy
+* [The Basics of Blockchain: A Beginner's Guide to Blockchain](https://www.udemy.com/the-basics-of-blockchain/) - Udemy
 
 ###Documentaries
 * [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
@@ -204,3 +205,4 @@ Curated list of blockchain and general cryptocurrency resources
 * [Tradeblock](https://tradeblock.com/markets)
 * [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
 * [Size of the Network](https://getaddr.bitnodes.io/)
+* [Block Explorer](https://blockexplorer.com/)
