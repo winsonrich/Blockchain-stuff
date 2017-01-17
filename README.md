@@ -212,3 +212,4 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitinfocharts](https://bitinfocharts.com/bitcoin/explorer/)
 * [WebBtc](https://webbtc.com/)
 * [Wallet Explorer](https://www.walletexplorer.com/)
+* [SoChain](https://chain.so/btc)
