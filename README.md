@@ -113,7 +113,7 @@ Curated list of blockchain and general cryptocurrency resources
 
 
 ###Infographics
-- [Bitcoin's History2008-2014](https://i.imgur.com/kVF3kFu.png)
+- [Bitcoin's History 2008-2014](https://i.imgur.com/kVF3kFu.png)
 - [How a Transaction Works](https://i.imgur.com/fZyX3Od.jpg)
 
 
