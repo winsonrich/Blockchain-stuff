@@ -175,6 +175,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
 * [Crypto Currencies, the Blockchain, and Smart Contracts](https://crypto.stanford.edu/cs251/) - Standford
 * [Ethereum Developer: Build A Decentralised Blockchain App](https://www.udemy.com/ethereum-developer/) - Udemy
+* [Introduction to Bitcoin and Decentralized Technology By Scott Driscoll](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Pluralsight
 * [The Basics of Blockchain: A Beginner's Guide to Blockchain](https://www.udemy.com/the-basics-of-blockchain/) - Udemy
 * [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
 
