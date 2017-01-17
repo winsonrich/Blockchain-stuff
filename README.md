@@ -142,6 +142,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [How the Blockchain is Changing Money and Business (19 min)](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?language=en) - Don Tapscott
 
 ###Youtube Channels
+* [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
 * [Andreas Antonopolous](https://www.youtube.com/user/aantonop)
 * [Andy Ofiesh](https://www.youtube.com/user/JellyBaby68/videos)
 * [Bitcoin Embassy](https://www.youtube.com/user/JellyBaby68/videos)
@@ -150,7 +151,6 @@ Curated list of blockchain and general cryptocurrency resources
 * [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
 * [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
-* [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
 * [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
 * [Draper University](https://www.youtube.com/user/TimothyDraper/videos)
 * [EtherCasts](https://www.youtube.com/user/EtherCasts)
@@ -158,63 +158,65 @@ Curated list of blockchain and general cryptocurrency resources
 * [EverydayCrpto](https://www.youtube.com/user/Cryptoeveryday/videos)
 * [Let's Talk Bitcoin](https://www.youtube.com/user/LetsTalkBitcoinChan)
 * [MIT Bitcoin Club](https://www.youtube.com/user/MITBitcoinClub/videos)
-* [Satoshi Pollen Technical](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
 * [SF Bitcoin Meetup Industry](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos)
+* [Satoshi Pollen Technical](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
 * [Texas Bitcoin Conference](Industy Info, Technical)
 * [University Of Nicosia](https://www.youtube.com/user/MScDigitalCurrency/videos)
 * [WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
 * [World Crypto Network](Industry Info, Fun, Entertainment)
-* [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
+* [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
+
 
 ###Courses
 * [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
-* [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
 * [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy
+* [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
 * [Crypto Currencies, the Blockchain, and Smart Contracts](https://crypto.stanford.edu/cs251/) - Standford
-* [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
 * [Ethereum Developer: Build A Decentralised Blockchain App](https://www.udemy.com/ethereum-developer/) - Udemy
 * [The Basics of Blockchain: A Beginner's Guide to Blockchain](https://www.udemy.com/the-basics-of-blockchain/) - Udemy
+* [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
+
 
 ###Documentaries
-* [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
 * [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
-* [The Bitcoin Doco](https://vimeo.com/112223859)
 * [Inside Man with Morgan Spurlock ](http://www.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
 * [Life Inside of a Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I)
-
+* [The Bitcoin Doco](https://vimeo.com/112223859)
+* [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
 
 
 ###Blockchain Art
- * [Artlery](https://artlery.com)
- * [Ascribe](https://www.ascribe.io)
- * [Blockai](https://blockai.com)
- * [Everledger](http://www.everledger.io)
- * [MediaChain Labs](http://www.mediachainlabs.com)
- * [Tagsmart](http://www.tagsmart.com)
- * [Monegraph](https://monegraph.com)
- * [Verisart](https://www.verisart.com)
- * [Bitmark](https://bitmark.com)
+* [Artlery](https://artlery.com)
+* [Ascribe](https://www.ascribe.io)
+* [Bitmark](https://bitmark.com)
+* [Blockai](https://blockai.com)
+* [Everledger](http://www.everledger.io)
+* [MediaChain Labs](http://www.mediachainlabs.com)
+* [Monegraph](https://monegraph.com)
+* [Tagsmart](http://www.tagsmart.com)
+* [Verisart](https://www.verisart.com)
+
 
 ###Explorers
-* [Btc Chain](https://btc.com/)
-* [Chain Flyer](http://chainflyer.bitflyer.jp)
-* [Ether.Camp](http://frontier.ether.camp/)
-* [Etherscan](https://etherscan.io/)
-* [EtherChain](https://etherchain.org/)
-* [Blockchain Size:](https://blockchain.info/charts/blocks-size)
-* [Ethereum Network Stats](https://stats.ethdev.com/)
-* [Tradeblock](https://tradeblock.com/markets)
-* [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
-* [Size of the Network](https://getaddr.bitnodes.io/)
-* [Coin Payments](https://explorer.coinpayments.net/)
-* [Coin Prism](https://www.coinprism.info/)
-* [Smartbit](https://www.smartbit.com.au/)
-* [Block Explorer](https://blockexplorer.com/)
-* [Blockr](http://blockr.io/)
-* [Blockonomics](https://www.blockonomics.co/)
 * [Bitaps](https://bitaps.com/)
 * [Bitinfocharts](https://bitinfocharts.com/bitcoin/explorer/)
-* [WebBtc](https://webbtc.com/)
-* [Wallet Explorer](https://www.walletexplorer.com/)
-* [SoChain](https://chain.so/btc)
+* [Block Explorer](https://blockexplorer.com/)
+* [Blockchain Size:](https://blockchain.info/charts/blocks-size)
+* [Blockonomics](https://www.blockonomics.co/)
+* [Blockr](http://blockr.io/)
 * [Blocktrail](https://www.blocktrail.com/BTC)
+* [Btc Chain](https://btc.com/)
+* [Chain Flyer](http://chainflyer.bitflyer.jp)
+* [Coin Payments](https://explorer.coinpayments.net/)
+* [Coin Prism](https://www.coinprism.info/)
+* [CoinGecko](https://www.coingecko.com/en/price_charts/bitcoin/usd/24_hours)
+* [Ether.Camp](http://frontier.ether.camp/)
+* [EtherChain](https://etherchain.org/)
+* [Ethereum Network Stats](https://stats.ethdev.com/)
+* [Etherscan](https://etherscan.io/)
+* [Size of the Network](https://getaddr.bitnodes.io/)
+* [Smartbit](https://www.smartbit.com.au/)
+* [SoChain](https://chain.so/btc)
+* [Tradeblock](https://tradeblock.com/markets)
+* [Wallet Explorer](https://www.walletexplorer.com/)
+* [WebBtc](https://webbtc.com/)
