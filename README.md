@@ -218,6 +218,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [EtherChain](https://etherchain.org/)
 * [Ethereum Network Stats](https://stats.ethdev.com/)
 * [Etherscan](https://etherscan.io/)
+* [Insight](https://insight.bitpay.com/)
 * [Size of the Network](https://getaddr.bitnodes.io/)
 * [Smartbit](https://www.smartbit.com.au/)
 * [SoChain](https://chain.so/btc)
