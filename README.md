@@ -230,7 +230,7 @@ Curated list of blockchain and general cryptocurrency resources
 
 ###Assets
 * [Coinspark](http://coinspark.org/)
-* []()
-* []()
-* []()
+* [Chronicled](http://www.chronicled.com/index.html)
+* [EverLedger](https://www.everledger.io/)
+* [OpenPublish](https://github.com/blockai-unofficial/openpublish)
 * []()
