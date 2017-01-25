@@ -233,4 +233,4 @@ Curated list of blockchain and general cryptocurrency resources
 * [Chronicled](http://www.chronicled.com/index.html)
 * [EverLedger](https://www.everledger.io/)
 * [OpenPublish](https://github.com/blockai-unofficial/openpublish)
-* []()
+* [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
