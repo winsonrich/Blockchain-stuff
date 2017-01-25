@@ -15,6 +15,8 @@ Curated list of blockchain and general cryptocurrency resources
 - [Documentaries](#documentaries)
 - [Blockchain Art](#blockchain-art)
 - [Explorers](#explorers)
+- [Assets](#assets)
+
 
 
 ###Blockchain Books
@@ -225,3 +227,10 @@ Curated list of blockchain and general cryptocurrency resources
 * [Tradeblock](https://tradeblock.com/markets)
 * [Wallet Explorer](https://www.walletexplorer.com/)
 * [WebBtc](https://webbtc.com/)
+
+###Assets
+* [Coinspark](http://coinspark.org/)
+* []()
+* []()
+* []()
+* []()
