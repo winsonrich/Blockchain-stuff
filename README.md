@@ -4,18 +4,19 @@ Curated list of blockchain and general cryptocurrency resources
 
 # Table of Contents
 
-- [Blockchain Books](#blockchain-books)
-- [White Papers](#white-papers)
+- [Assets](#assets)
 - [Bitcoin Books](#bitcoin)
+- [Blockchain Art](#blockchain-art)
+- [Blockchain Books](#blockchain-books)
+- [Courses](#courses)
+- [Decentralized Applications](#dapps)
+- [Documentaries](#documentaries)
 - [Ethereum and Smart Contracts](#ethereum-and-smart-contracts)
+- [Explorers](#explorers)
 - [Infographics](#infographics)
 - [Talks](#talks)
+- [White Papers](#white-papers)
 - [Youtube Channels](#youtube-channels)
-- [Courses](#courses)
-- [Documentaries](#documentaries)
-- [Blockchain Art](#blockchain-art)
-- [Explorers](#explorers)
-- [Assets](#assets)
 
 
 
