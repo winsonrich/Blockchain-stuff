@@ -183,6 +183,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [World Crypto Network](Industry Info, Fun, Entertainment)
 * [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
 * [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
+* [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
 
 
 ###Courses
