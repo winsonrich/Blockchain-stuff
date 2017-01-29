@@ -16,6 +16,8 @@ Curated list of blockchain and general cryptocurrency resources
 - [White Papers](#white-papers)
 - [Youtube Channels](#youtube-channels)
 - [Assets](#assets)
+- [Private Blockchain](#private-blockchain)
+
 
 
 
@@ -244,3 +246,6 @@ Curated list of blockchain and general cryptocurrency resources
 * [EverLedger](https://www.everledger.io/)
 * [OpenPublish](https://github.com/blockai-unofficial/openpublish)
 * [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
+
+###Private Blockchain
+* [HyperLedger]https://www.hyperledger.org/)
