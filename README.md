@@ -4,7 +4,6 @@ Curated list of blockchain and general cryptocurrency resources
 
 # Table of Contents
 
-- [Assets](#assets)
 - [Bitcoin Books](#bitcoin)
 - [Blockchain Art](#blockchain-art)
 - [Blockchain Books](#blockchain-books)
@@ -16,15 +15,9 @@ Curated list of blockchain and general cryptocurrency resources
 - [Talks](#talks)
 - [White Papers](#white-papers)
 - [Youtube Channels](#youtube-channels)
+- [Assets](#assets)
 
 
-
-###Assets
-* [Coinspark](http://coinspark.org/)
-* [Chronicled](http://www.chronicled.com/index.html)
-* [EverLedger](https://www.everledger.io/)
-* [OpenPublish](https://github.com/blockai-unofficial/openpublish)
-* [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
 
 ###Blockchain Books
 
@@ -243,3 +236,11 @@ Curated list of blockchain and general cryptocurrency resources
 * [Tradeblock](https://tradeblock.com/markets)
 * [Wallet Explorer](https://www.walletexplorer.com/)
 * [WebBtc](https://webbtc.com/)
+
+
+###Assets
+* [Coinspark](http://coinspark.org/)
+* [Chronicled](http://www.chronicled.com/index.html)
+* [EverLedger](https://www.everledger.io/)
+* [OpenPublish](https://github.com/blockai-unofficial/openpublish)
+* [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
