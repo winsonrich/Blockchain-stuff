@@ -247,5 +247,5 @@ Curated list of blockchain and general cryptocurrency resources
 * [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
 
 ###Private Blockchain
-* [HyperLedger]https://www.hyperledger.org/)
-* [Openchain]https://www.openchain.com/)
+* [HyperLedger](https://www.hyperledger.org/)
+* [Openchain](https://www.openchain.com/)
