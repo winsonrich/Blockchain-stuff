@@ -21,7 +21,7 @@ Curated list of blockchain and general cryptocurrency resources
 
 
 
-###Blockchain Books
+### Blockchain Books
 * [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP) - R.J Simmons
 * [Blockchain Fast and Simple - What It Is, How It Works, Why It Matters: Understand the basics, join the revolution](https://www.amazon.com/Blockchain-Fast-Simple-Understand-revolution-ebook/dp/B01M1J671W/ref=sr_1_1?s=books&ie=UTF8&qid=1476984683&sr=1-1&keywords=Blockchain+Fast+and+Simple+-+What+It+Is%2C+How+It+Works%2C+Why+It+Matters%3A+Understand+the+basics%2C+join+the+revolution) - Pierro Martini
 * [Blockchain Revolution: How the Technology behind Bitcoin Is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_sim_14_11?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) -  Don and AlexTapscott
@@ -45,7 +45,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ) -Chris Skinner
 
 
-###White papers
+### White papers
 * [A Fistful of Bitcoins: Characterizing Payments Among Men with No Names](http://cseweb.ucsd.edu/~smeiklejohn/files/imc13.pdf) - University of San Diego California
 * [A brave new world? What impact will distributed ledger technology have on the financial industry?](https://www.ecb.europa.eu/paym/pdf/infocus/20160422_infocus_dlt.pdf) -  The European Central Bank
 * [An Architecture for the Internet of Money](https://docs.google.com/document/d/1Bc-kZXROTeMzG6AvH7rrTrUy24UwHoEcgiL7ALHMO0A/pub) - Meher Roy
@@ -66,7 +66,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Impact and Potential of Blockchain on the Securities Transaction Lifecycle](http://www.zyen.com/Publications/The%20Impact%20and%20Potential%20of%20Blockchain%20on%20the%20Securities%20Transaction%20Lif....pdf) - The Swift Institute
 * [World Citizenship by Creating Affordable Private Passport Service](https://docs.google.com/document/d/1hq52GT0sQ8mJBZ3_qr-LIpZTBFqIDA2WV8vb_1m8i4U/edit#) - Chris Ellis
 
-###Bitcoin
+### Bitcoin
 * [Anonymous Cryptocurrencies: The rise of bitcoin alternatives that offer true anonymity](https://www.amazon.com/Cryptocurrencies-bitcoin-alternatives-offer-anonymity/dp/1500682586/ref=pd_sim_14_24?_encoding=UTF8&pd_rd_i=1500682586&pd_rd_r=PMB5GABNHVFM2VHE3WBH&pd_rd_w=6yGsW&pd_rd_wg=yVxm8&psc=1&refRID=PMB5GABNHVFM2VHE3WBH) - Will Martin
 * [Bit by Bit: How P2P Is Freeing the World](https://www.amazon.com/Bit-How-P2P-Freeing-World-ebook/dp/B00S085TRS/ref=sr_1_1?ie=UTF8&qid=1476985273&sr=8-1&keywords=Bit+by+Bit) - Jeffery Tucker
 * [Bitcoin : A Complete Beginner's Guide - Master The Game](https://www.amazon.com/Bitcoin-Complete-Beginners-Guide-Master-ebook/dp/B01JU6KD9C/ref=sr_1_2?ie=UTF8&qid=1476986332&sr=8-2&keywords=The+Bitcoin+Tutorial%3A) - Luke Sutton
@@ -98,7 +98,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin](https://www.amazon.com/Virtual-Billions-Genius-League-Bitcoin/dp/163388144X/ref=sr_1_1?ie=UTF8&qid=1476986258&sr=8-1&keywords=Virtual+Billions%3A+The+Genius) - Eric Geissinger
 * [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/ref=sr_1_1?ie=UTF8&qid=1476986207&sr=8-1&keywords=Wildcat+Currency) - Edward Castronova
 
-###Ethereum and Smart Contracts
+### Ethereum and Smart Contracts
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
 * [Blockchain contracts and CyberLaw](https://www.amazon.com/BLOCKCHAIN-CONTRACTS-CYBERLAW-PAVAN-DUGGAL-ebook/dp/B019S2I1CE/ref=sr_1_1?ie=UTF8&qid=1476985977&sr=8-1&keywords=Blockchain+contracts+and+CyberLaw) - Pavan Duggal
 * [Ethereum Builder's Guide](https://www.gitbook.com/book/ethereumbuilders/guide/details) - Ethereum
@@ -118,12 +118,12 @@ Curated list of blockchain and general cryptocurrency resources
 * [TurboEthereum Guide](https://www.gitbook.com/book/gavofyork/turboethereum/details) - Gavin Wood
 
 
-###Infographics
+### Infographics
 - [Bitcoin's History 2008-2014](https://i.imgur.com/kVF3kFu.png)
 - [How a Transaction Works](https://i.imgur.com/fZyX3Od.jpg)
 
 
-###Talks
+### Talks
 * [Balaji Srinivasan gives a quick talk at Goldman Sachs. (14 min)](https://www.youtube.com/watch?v=7-vYEsfsa30)
 * [Balaji Srinivasan on Silicon Valley’s ultimate exit, the USA the Microsoft of nations (16 min)](https://www.youtube.com/watch?v=cOubCHLXT6A)
 * [Beyond Bitcoin - Block Chains and the Future of Trustless Computing (27 min)](https://www.youtube.com/watch?v=IgETC2JMUBI)
@@ -150,7 +150,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [The future will be decentralized (14mins)](https://www.youtube.com/watch?v=97ufCT6lQcY) - Charles Hoskinson
 * [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
 
-###Youtube Channels
+### Youtube Channels
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
 * [Andreas Antonopolous](https://www.youtube.com/user/aantonop)
 * [Andy Ofiesh](https://www.youtube.com/user/JellyBaby68/videos)
@@ -181,7 +181,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
 
 
-###Courses
+### Courses
 * [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
 * [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy
 * [Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it) - Khan Academy Series
@@ -192,7 +192,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
 
 
-###Documentaries
+### Documentaries
 * [Banking on Bitcoin(Trailer)](https://www.youtube.com/watch?v=LJsbebFyM48)
 * [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
 * [Inside Man with Morgan Spurlock ](http://www.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
@@ -203,7 +203,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
 
 
-###Blockchain Art
+### Blockchain Art
 * [Artlery](https://artlery.com)
 * [Ascribe](https://www.ascribe.io)
 * [Bitmark](https://bitmark.com)
@@ -215,7 +215,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Verisart](https://www.verisart.com)
 
 
-###Explorers
+### Explorers
 * [Bitaps](https://bitaps.com/)
 * [Bitinfocharts](https://bitinfocharts.com/bitcoin/explorer/)
 * [Block Explorer](https://blockexplorer.com/)
@@ -242,13 +242,13 @@ Curated list of blockchain and general cryptocurrency resources
 * [WebBtc](https://webbtc.com/)
 
 
-###Assets
+### Assets
 * [Coinspark](http://coinspark.org/)
 * [Chronicled](http://www.chronicled.com/index.html)
 * [EverLedger](https://www.everledger.io/)
 * [OpenPublish](https://github.com/blockai-unofficial/openpublish)
 * [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
 
-###Private Blockchain
+### Private Blockchain
 * [HyperLedger](https://www.hyperledger.org/)
 * [Openchain](https://www.openchain.com/)
