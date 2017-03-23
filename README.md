@@ -196,6 +196,8 @@ Curated list of blockchain and general cryptocurrency resources
 * [Banking on Bitcoin(Trailer)](https://www.youtube.com/watch?v=LJsbebFyM48)
 * [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
 * [Inside Man with Morgan Spurlock ](http://www.disclose.tv/action/viewvideo/198650/Morgan_Spurlock__Living_On_Bitcoin__The_Inside_Man_Bitcoin_CNN_Full_Documentary/)
+* [Bitcoin: Liberating Organic Farmers](http://www.youtube.com/watch?v=fBLpx6gQtUU)
+* [Bitcoins in Argentina](http://www.youtube.com/watch?v=e__m-w4N7NI)
 * [Life Inside of a Secret Chinese Bitcoin Mine](https://www.youtube.com/watch?v=K8kua5B5K3I)
 * [The Bitcoin Doco](https://vimeo.com/112223859)
 * [The Rise and Rise of Bitcoin](https://vimeo.com/ondemand/bitcoindoc)
