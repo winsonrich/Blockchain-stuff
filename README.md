@@ -166,7 +166,6 @@ Curated list of blockchain and general cryptocurrency resources
 * [Blockchain University](https://www.youtube.com/channel/UCJ5uHx90mZGlK0lC-GSmtzw/videos)
 * [Blockstack](https://www.youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ)
 * [Bruce Fenton First Mover](https://www.youtube.com/user/BruceFenton/videos)
-* [Bruce Fentohttps://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-n First Mover](https://www.youtube.com/user/BruceFenton/videos)
 * [Coin Brief](https://www.youtube.com/user/Coinbrief/videos)
 * [Decentral.tv](https://www.youtube.com/user/decentralTV/videos)
 * [Ethereum for Dummies - Dr. Gavin Wood](https://www.youtube.com/watch?v=U_LK0t_qaPo)
@@ -178,14 +177,14 @@ Curated list of blockchain and general cryptocurrency resources
 * [MIT Bitcoin Club](https://www.youtube.com/user/MITBitcoinClub/videos)
 * [SF Bitcoin Meetup Industry](https://www.youtube.com/channel/UCOLeHoKV7SHwAAS0zBwsV-A/videos)
 * [Satoshi Pollen Technical](https://www.youtube.com/user/IamSatoshiNakamoto/videos)
-* [Texas Bitcoin Conference](Industy Info, Technical)
+* [Texas Bitcoin Conference](https://www.youtube.com/channel/UCI_T5wLHpVh6URSkxG6-x_g)
 * [University Of Nicosia](https://www.youtube.com/user/MScDigitalCurrency/videos)
 * [WBN](https://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos)
-* [World Crypto Network](Industry Info, Fun, Entertainment)
+* [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork)
 * [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
 * [Trust Disrupted](https://www.youtube.com/playlist?list=PLHRxVckaE8daSH4OEReWshCKWu3iIOIS-)
 * [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
-* [BitcoinLectures.tv] (http://bitcoinlectures.tv)
+* [BitcoinLectures.tv](http://bitcoinlectures.tv)
 
 ### Courses
 * [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
